@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romethsithuka&label=Profile%20views&color=0e75b6&style=flat" alt="romethsithuka" /> </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=fira+code&size=25&pause=35&color=0FF6FF&center&=true&vCenter=true&width=500&height=70&duration=3000&lines=+I'm+Rometh+Sithruka+Gunathilaka;An+Undergraduate+Student;Passionate+about+Coding+%26+Technology;Eager+Learner+and+Tech+Enthusiast;Aspiring+Software+Developer;Driven+by+Innovation+and+Creativity;Building+the+Future+One+Line+of+Code+at+a+Time" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=fira+code&size=25&pause=35&color=0FF6FF&center&=true&vCenter=true&width=500&height=70&duration=3000&lines=+I'm+Rometh+Sithruka+Gunathilaka;An+Undergraduate+Student;Passionate+about+Coding+%26+Technology;Building+the+Future+One+Line+of+Code+at+a+Time" />
 </h1>
 
 
