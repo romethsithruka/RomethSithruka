@@ -2,7 +2,7 @@
 
 <h1 align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=fira+code&size=25&pause=35&color=0FF6FF&center&=true&vCenter=true&width=500&height=70&duration=3000&lines=+I'm+Rometh+Sithruka+Gunathilaka!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=fira+code&size=25&pause=35&color=0FF6FF&center&=true&vCenter=true&width=500&height=70&duration=3000&lines=+I'm+Rometh+Sithruka+Gunathilaka;" />
 </h1>
 
 <h3 align="center">Undergradute Student at greenwich university</h3>
