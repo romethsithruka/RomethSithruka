@@ -43,6 +43,6 @@
 
 
 
-<hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+
+
