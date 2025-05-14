@@ -12,7 +12,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **park finder**
+ 🔭 I’m currently working on **Task Manager**
  
  🌱 I’m currently learning **nodejs, nextjs**
 
